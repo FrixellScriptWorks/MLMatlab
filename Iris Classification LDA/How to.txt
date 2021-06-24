@@ -1,0 +1,11 @@
+- Pastikan MATLAB 2015 atau lebih baru.
+- Gambar adalah hasil figur Matlab.
+- File Excel silakan taruh di tempat yang terdeteksi Matlab (ex: Documents)
+- Referensi berupa Jurnal. Link contoh program ada di Script.
+
+
+File Excel**
+Data training = Dataset Iris.xlsx
+Data pengujian = Data Iris submission.xlsx
+
+Note: Kalau bisa pake classifier yang lain, biar ga keliatan wkwk. Kalau mau teorinya, bisa baca skripsi gw... XD
