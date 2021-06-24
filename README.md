@@ -17,3 +17,4 @@ Contact me at bayujati50@gmail.com
 
 # License
 
+This project is licensed under MIT License.
