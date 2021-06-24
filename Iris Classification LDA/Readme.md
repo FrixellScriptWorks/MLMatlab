@@ -1,5 +1,4 @@
 # Iris Classification with Linear Discriminant Analysis
-> Classic, but this is where the starting step happens. Like the 'Hello World!' program.
 
 Iris flower can be classified into 3 species (Setosa, Versicolor, and Virginica). It can be looked at its Sepal and Petal, which has significant differencies in size. With size, it's means number. It can be calculated with quantitative statistical methods, in this case is Linear Discriminant Analysis (LDA).
 
