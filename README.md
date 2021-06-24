@@ -7,4 +7,13 @@ My version of Matlab is **Matlab 2015b**. Yes, the confusion matrix for predicti
 
 Here are my project(s):
 ## Iris Classification with Linear Discriminant Analysis
-Link: 
+> Classic, but this is where the starting step happens. Like the 'Hello World!' program.
+
+> Myself.
+Link: [Iris Classification LDA](https://github.com/FrixellScriptWorks/Matlab_ML_Projects/tree/main/Iris%20Classification%20LDA)
+
+# Contacts
+Contact me at bayujati50@gmail.com
+
+# License
+
