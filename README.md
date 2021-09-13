@@ -15,12 +15,12 @@ Here are my project(s):
 > Classic, but this is where the starting step happens. Like the 'Hello World!' program.
 > - Myself.
 
-Link: [Iris Classification LDA](https://github.com/FrixellScriptWorks/ML_Projects/tree/main/Iris%20Classification%20LDA)
+Link: [Iris Classification LDA](https://github.com/FrixellScriptWorks/ML_Projects/tree/main/Matlab/Iris%20Classification%20LDA)
 
 ## Isotope Classification with Decision Tree (Jupyter)
 > Classifying isotope from radioactive source along with validation and test with decision tree classifier. Isotope used are Co60, Na22, Am241, Cs137, Sr90. Processing time also recorded and dependant of my device. Specification added in the link's readme.
 
-Link: [Isotope Classification DTC](https://github.com/FrixellScriptWorks/ML_Projects/tree/main/Iris%20Classification%20LDA)
+Link: [Isotope Classification DTC](https://github.com/FrixellScriptWorks/ML_Projects/tree/main/Jupyter/Gamma%20Spectrum%20Classification%20DTC)
 
 # Contacts
 Contact me at bayujati50@gmail.com
