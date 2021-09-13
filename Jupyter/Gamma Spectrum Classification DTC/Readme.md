@@ -56,7 +56,7 @@ Deviation errors: (0%, 5.86%, 5.96%, 9.50%, 7.48%, 9.01%, 7.53%, 10.46%, 11.81%)
 
 Finally, the confusion matrix reports:
   - ![Confusion Matrix](https://user-images.githubusercontent.com/66581100/133020882-9165de7b-d4de-41d8-91d6-45942571eb7e.png)
-  - ![CM Reports](https://user-images.githubusercontent.com/66581100/133020937-967979db-6721-422c-ac83-71b5b14fc5fd.png)
+  - ![Cm Reports](https://user-images.githubusercontent.com/66581100/133020937-967979db-6721-422c-ac83-71b5b14fc5fd.png)
 
 Processing time: 6.75 seconds
 
